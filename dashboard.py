@@ -146,4 +146,4 @@ status_counts = expiring_soon["Status"].value_counts()
 st.subheader("Lease Status Summary")
 st.bar_chart(status_counts)
 
-st.success("Private data.")
+st.success("Private website.")
