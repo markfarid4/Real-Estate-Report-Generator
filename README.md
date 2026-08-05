@@ -4,6 +4,10 @@ A web-based dashboard built with **Python**, **Pandas**, and **Streamlit** for a
 
 This project allows property managers and real estate analysts to upload an Excel or CSV lease report and instantly identify leases approaching expiration.
 
+## 🚀 Live Demo
+
+https://cw-lease-expiration-dashboard.streamlit.app
+
 ---
 
 ## Features
@@ -57,7 +61,7 @@ Real-Estate-Report-Generator/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Real-Estate-Report-Generator.git
+git clone https://github.com/markfarid4/Real-Estate-Report-Generator.git
 ```
 
 Install dependencies:
