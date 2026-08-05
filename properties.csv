@@ -1,6 +1,1 @@
-Property ID,Property Name,City,Lease End Date,Monthly Rent
-1001,Gateway Plaza,Newark,2026-09-15,12000
-1002,Riverfront Offices,Jersey City,2027-01-10,18500
-1003,Commerce Center,Newark,2026-08-01,9500
-1004,Industrial Park,Elizabeth,2026-12-20,22000
-1005,Downtown Tower,Newark,2026-07-30,30000
+Index,Property ID,Property Name,City,State,Lease End Date,Monthly Rent
